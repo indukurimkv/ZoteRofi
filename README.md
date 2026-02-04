@@ -34,3 +34,5 @@ To run this, just use the path for the python interpreter of the virtual environ
 On linux, this would be something like `/absolute/path/to/repo/venv/bin/python /absolute/path/to/repo/zoterofi.py`
 
 Just bind the command to run the script to a keyboard shortcut of your choosing, and you're set!
+
+Note: For convenience, a bash script is included that will use the appropriate interpreter and call the script. This should make it easier to bind as a shortcut. Unfortunately, this is currently bash-specific
