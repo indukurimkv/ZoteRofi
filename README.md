@@ -5,6 +5,11 @@ This is a small utility that uses the BetterBibtex zotero plugin to query and sh
 
 ## Setup
 
+First, clone this repo:
+```bash
+git clone https://github.com/indukurimkv/ZoteRofi.git
+```
+
 The project was tested on python 3.14.2, but other versions should work fine.
 I recommend using a virtual environment and installing the required packages there:
 
